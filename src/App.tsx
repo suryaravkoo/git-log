@@ -14,7 +14,7 @@ function App() {
         <p className="header">🚀 Playing With Vite</p>
 
         <div className="body">
-          <button onClick={() => setCount((count) => count + 1)}>
+          <button onClick={() => setCount((count) => count + 2)}>
             🪂 Click me : {count}
           </button>
 
